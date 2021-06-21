@@ -2,4 +2,4 @@
 
 Reach out to me @
 
-LinkedIn: <link href = "https://www.linkedin.com/in/vennela-s-62b74665/"></link>
+<a href = "https://www.linkedin.com/in/vennela-s-62b74665/">LinkedIn</a>
