@@ -1,6 +1,5 @@
 # MLnow_2.0
 
-Reach out to me @
 
 <b>Email</b>: vennela.jobs@gmail.com
 
